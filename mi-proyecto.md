@@ -4,3 +4,6 @@ Este es mi primer proyecto usando Git.
 
 -Aprendiendo Git paso a paso
 ## Características
+
+## Última actualización
+Editado desde GitHub web interface
